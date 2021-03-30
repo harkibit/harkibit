@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hey! Good to see you here. 😎
 
+I'm Hiba, a Front-End web developer from :lebanon: Lebanon, Tripoli where I live currently.
 <!--
 **harkibit/harkibit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
