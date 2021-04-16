@@ -1,6 +1,6 @@
 # Good to see you here.<img src="https://emoji.gg/assets/emoji/6852-wsg.gif" width="35px" alt="WSG">
 
-I'm Hiba, a Front-End web developer from <img src="https://pics.freeicons.io/uploads/icons/png/11587799771536064887-512.png" width="18" height="18"> Lebanon, Tripoli where I live currently.
+I'm Hiba, a Front-End web developer from Lebanon, Tripoli where I live currently.
 
 Please find me on 
 
