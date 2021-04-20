@@ -9,7 +9,7 @@
 - From Lebanon where I live currently
 
 # What I am up to 
-- Currently I'm working on novus 🔨
+- Currently I'm working on [novus](https://github.com/harkibit/novus) 🔨
 - In the near future I plan to 🎯 
   - Learn more about php 
   - Developing my CSS animation skills
