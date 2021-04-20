@@ -5,6 +5,7 @@
 
 # About me 
 - Front End web developer
+- Front End coding bootcamp graduate
 - Computer science student 
 - From Lebanon where I live currently
 
