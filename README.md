@@ -1,14 +1,11 @@
 <img src = "banner.png">
 
 # Good to see you here.<img src="https://emoji.gg/assets/emoji/6852-wsg.gif" width="35px" alt="WSG">
+<a href="https://www.linkedin.com/in/hiba-abdel-karim/"><img src = "https://img.shields.io/badge/Linkedin-blue?style=for-the-badge"/></a> <a href="https://codepen.io/harkibit" title="codepen"><img src = "https://img.shields.io/badge/Codepen-lightgrey?style=for-the-badge"/></a> <a href="https://codepen.io/harkibit" title="codepen"> <img src = "https://img.shields.io/badge/Medium-black?style=for-the-badge"/></a>
 
 I'm Hiba, a Front-End web developer from Lebanon, Tripoli where I live currently.
 
-Please find me on 
-
-<a href="https://www.linkedin.com/in/hiba-abdel-karim/"><img src = "https://img.shields.io/badge/Linkedin-blue?style=for-the-badge"/></a> <a href="https://codepen.io/harkibit" title="codepen"><img src = "https://img.shields.io/badge/Codepen-lightgrey?style=for-the-badge"/></a> <a href="https://codepen.io/harkibit" title="codepen"> <img src = "https://img.shields.io/badge/Medium-black?style=for-the-badge"/></a>
-
-Or contact me via email : abdelkarim.hiba@outlook.com
+contact me via email : abdelkarim.hiba@outlook.com
 
 Feel free to ask me anything about the following technologies :
 
