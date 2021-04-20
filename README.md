@@ -6,7 +6,7 @@ I'm Hiba, a Front-End web developer from Lebanon, Tripoli where I live currently
 
 Please find me on 
 
-<a href="https://www.linkedin.com/in/hiba-abdel-karim/" title="linkedin"><img src="https://pics.freeicons.io/uploads/icons/png/545912701530099617-512.png" width="30" height="30"></a> <a href="https://codepen.io/harkibit" title="codepen"><img src="https://pics.freeicons.io/uploads/icons/png/4672731991530099609-512.png" width="33" height="33"></a>
+<a href="https://www.linkedin.com/in/hiba-abdel-karim/"><img src = "https://img.shields.io/badge/Linkedin-blue?style=for-the-badge"/></a> <a href="https://codepen.io/harkibit" title="codepen"><img src = "https://img.shields.io/badge/Codepen-lightgrey?style=for-the-badge"/></a> <a href="https://codepen.io/harkibit" title="codepen"> <img src = "https://img.shields.io/badge/Medium-black?style=for-the-badge"/></a>
 
 Or contact me via email : abdelkarim.hiba@outlook.com
 
