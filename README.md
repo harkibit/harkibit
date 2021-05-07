@@ -10,9 +10,8 @@
 - Born and raised in Lebanon
 
 # What I am up to 
-- Currently I'm learning Redux
-- In the near future I plan to 🎯 
-  - Learn more about php 
+- Currently I'm learning C#
+- In the near future I plan to 🎯
   - Developing my CSS animation skills
 
 # Technologies and skills
