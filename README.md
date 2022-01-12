@@ -6,17 +6,15 @@
 # About me 
 - Front End web developer
 - Front End coding bootcamp graduate
+- Full Stack Web Developer @ Logisoft mainly focused on Front End
 - Computer science student 
 - Born and raised in Lebanon
 
 # What I am up to 
-- Currently I'm learning C#
-- In the near future I plan to 🎯
-  - Developing my CSS animation skills
+- Currently I'm taking the full stack path in Frontend Masters learning the fundamentals for the backend such as database, database design, Api Designs, Linux command line and AWS for Frontend Engineers. All using Node.js language.
 
 # Technologies and skills
-<img src="https://pics.freeicons.io/uploads/icons/png/20167174151551942641-512.png" width="33" height="33"> <img src="https://pics.freeicons.io/uploads/icons/png/21088442871540553614-512.png" width="33" height="33"> <img src="https://pics.freeicons.io/uploads/icons/png/21337745421536211768-512.png" width="30" height="30"> <img src="https://pics.freeicons.io/uploads/icons/png/14072054271548141949-512.png" width="30" height="30">  <img src="https://pics.freeicons.io/uploads/icons/png/6655067911551942823-512.png" width="30" height="30">  <img src="https://pics.freeicons.io/uploads/icons/png/19681752361536207300-512.png" width="31" height="33"> <img src="https://material-ui.com/static/logo.png" width="31" height="33"> <img src="https://pics.freeicons.io/uploads/icons/png/6714929121551953707-512.png" width="35" height="35">
-
+<img src = "https://img.shields.io/badge/Reactjs-cornflowerblue?style=for-the-badge"/> <img src = "https://img.shields.io/badge/Sass-fuchsia?style=for-the-badge"/> <img src = "https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge"/> <img src = "https://img.shields.io/badge/Html-orange?style=for-the-badge"/> <img src = "https://img.shields.io/badge/Css-blue?style=for-the-badge"/>  <img src = "https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge"/> <img src = "https://img.shields.io/badge/Nextjs-black?style=for-the-badge"/> <img src = "https://img.shields.io/badge/Strapi-darkorchid?style=for-the-badge"/> 
 
 📫 R𝚎𝚊𝚌𝚑 𝚖𝚎 by email:
 abdelkarim.hiba@outlook.com
