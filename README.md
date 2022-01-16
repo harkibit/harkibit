@@ -6,7 +6,8 @@
 # About me 
 - Full Stack Web Developer @ Logisoft mainly focused on Front End
 - Front End coding bootcamp graduate
-- Computer science student 
+- Computer science student
+- Beside coding? I wanna be a writer!
 - Born and raised in Lebanon
 
 # What I am up to 
