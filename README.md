@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/hiba-abdel-karim/" target = "_blank"><img src = "https://img.shields.io/badge/Linkedin-blue?style=for-the-badge"/></a> <a href="https://codepen.io/harkibit" title="codepen" target = "_blank"><img src = "https://img.shields.io/badge/Codepen-lightgrey?style=for-the-badge"/></a> <a href="https://harkibit.medium.com/" title="medium" target = "_blank"> <img src = "https://img.shields.io/badge/Medium-black?style=for-the-badge"/></a>
 
 # About me 
-- Full Stack Web Developer @ Logisoft mainly focused on Front End
+- Front End web Developer with 1+ year of experience
 - Front End coding bootcamp graduate
 - Computer science student
 - Beside coding? I wanna be a writer who reads 100 book a day! :star2:
