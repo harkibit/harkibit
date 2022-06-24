@@ -1,6 +1,6 @@
 <img src = "banner.png">
 
-# Good to see you here <img src="https://emoji.gg/assets/emoji/6852-wsg.gif" width="35px" alt="WSG">
+# Good to see you here <img src="https://emoji.gg/assets/emoji/6852-wsg.gif" style="width: 35px" alt="WSG">
 <a href="https://www.linkedin.com/in/hiba-abdel-karim/" target = "_blank"><img src = "https://img.shields.io/badge/Linkedin-blue?style=for-the-badge"/></a> <a href="https://codepen.io/harkibit" title="codepen" target = "_blank"><img src = "https://img.shields.io/badge/Codepen-lightgrey?style=for-the-badge"/></a> <a href="https://harkibit.medium.com/" title="medium" target = "_blank"> <img src = "https://img.shields.io/badge/Medium-black?style=for-the-badge"/></a>
 
 # About me 
